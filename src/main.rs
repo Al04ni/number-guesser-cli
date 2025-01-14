@@ -1,7 +1,7 @@
 use std::io;
 
 fn main(){
-    println!("---Guess the number:---");
+    println!("---Guessing the number Game---");
     println!("Please input of your guess.");
 
     let mut guess: String  = String::new();
