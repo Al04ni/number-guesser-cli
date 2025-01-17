@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "byteorder",
+        "chacha",
+        "getrandom",
+        "libc",
+        "wasi",
+        "zerocopy"
+    ]
+}
